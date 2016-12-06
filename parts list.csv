@@ -1,0 +1,13 @@
+Part number,Description,Quantity,Manufacturer,Comments
+sculpt,3d printed,1,,
+base,3d printed,1,,
+spacer,3d printed,1,,
+led holder,3d printed,1,,
+91290A115,10mm M3 cap head machine screw,4,McMaster-Carr,
+94180A331,heat press threaded inserts M3,4,McMaster-Carr,
+1426,NeoPixel Stick - 8 x 5050 RGB LED,2,adafruit.com,
+,5V Arduino micro without headers,1,various,
+,Monster Mobile PowerCard Portable Battery V2,1,Monster,https://www.amazon.com/Monster-PowerCard-Portable-Battery-V2/dp/B00M8IW8YI/ref=sr_1_1?ie=UTF8&qid=1480988907&sr=8-1&keywords=monster+battery+pack
+91290A171,30mm M3 cap head machine screw,2,McMaster-Carr,optional (holds topper to case base)
+case lid,3d printed,1,,optional
+case base,3d printed,1,,optional
